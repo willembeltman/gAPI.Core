@@ -12,9 +12,6 @@ This package contains the core components that are reused across the gAPI ecosys
 ### AutoComparer – Deep, type-aware object comparison utilities.
 Supports custom equality logic and recursive comparison for complex models.
 
-### AutoMapper – A lightweight, reflection-based mapping engine for DTO ↔ Entity conversion.
-Includes type models, factories, and customizable mapping extensions.
-
 ### AutoSerializer – Unified serialization infrastructure for efficient, version-safe data exchange.
 
 ### EntityFrameworkDisk – A local, disk-based implementation of DbContext and DbSet for offline persistence.

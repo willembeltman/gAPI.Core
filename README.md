@@ -38,14 +38,6 @@ Typische onderdelen in dit pakket zijn:
 
 ---
 
-## 🔧 Gebruik
-
-Installeer via NuGet:
-
-```bash
-dotnet add package gAPI.Core
-```bash
-
 ## gAPI.CoreGebruik het pakket in je datamodels en services:
 
 	using gAPI.Core;
