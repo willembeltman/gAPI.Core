@@ -6,21 +6,22 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<InvariantGlobalization>true</InvariantGlobalization>
 
-		<Version>0.0.1-alpha2</Version>
-		<Authors>Willem Beltman</Authors>
-		<Company>Willem Beltman</Company>
-		<PackageId>gAPI</PackageId>
+		<Version>0.0.1</Version>
+		<Authors>Willem-Jan Beltman</Authors>
+		<Company>Willem-Jan Beltman</Company>
+		<PackageId>gAPI.Core</PackageId>
 		<Description>gAPI - a fast, smart, auto-generated API and RPC system for .NET 10. This is the core library of the gAPI ecosystem.</Description>
 		<PackageTags>api;rpc;codegen;dotnet;blazor;aspnetcore;tooling</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/willembeltman/gAPI</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/willembeltman/gAPI</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/willembeltman/gAPI.Core</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/willembeltman/gAPI.Core</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<IncludeSymbols>false</IncludeSymbols>
 		<IncludeSource>false</IncludeSource>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Title>gAPI commen library</Title>
+		<Copyright>2026 MIT Willem-Jan Beltman, see license file</Copyright>
 	</PropertyGroup>
 
 	<ItemGroup>
